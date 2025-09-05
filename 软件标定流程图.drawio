@@ -21,40 +21,40 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="QE-g7Vl7YDE5_Teg0-7s-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="QE-g7Vl7YDE5_Teg0-7s-12">
+        <mxCell id="QE-g7Vl7YDE5_Teg0-7s-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="QE-g7Vl7YDE5_Teg0-7s-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-6" value="部门主管审批&lt;div&gt;（软件所/标定所）&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="150" y="170" width="140" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="QE-g7Vl7YDE5_Teg0-7s-9" value="填写内容：&lt;div&gt;1.当前出差申请单中的全部内容，申请人、申请部门、申请时间、出差同行人、出差地点、出差天数、项目信息、出差目的等、&lt;/div&gt;&lt;div&gt;2.当前软件开发（升级）流程单中的部分内容：车型、软件类型（TCU、VCU）、软件版本号（TCU和VCU分别填写软件版本）&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="QE-g7Vl7YDE5_Teg0-7s-9" value="填写内容：&lt;div&gt;1.当前出差申请单中的全部内容，申请人、申请部门、申请时间、出差同行人、出差地点、出差天数、项目信息、出差目的等、&lt;/div&gt;&lt;div&gt;2.当前软件开发（升级）流程单中的部分内容：车型、软件类型（TCU、VCU）、软件版本号（TCU和VCU分别填写软件版本）&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-350" y="40" width="490" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="QE-g7Vl7YDE5_Teg0-7s-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QE-g7Vl7YDE5_Teg0-7s-12" target="QE-g7Vl7YDE5_Teg0-7s-15">
+        <mxCell id="QE-g7Vl7YDE5_Teg0-7s-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QE-g7Vl7YDE5_Teg0-7s-12" target="QE-g7Vl7YDE5_Teg0-7s-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QE-g7Vl7YDE5_Teg0-7s-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QE-g7Vl7YDE5_Teg0-7s-12" target="QE-g7Vl7YDE5_Teg0-7s-17">
+        <mxCell id="QE-g7Vl7YDE5_Teg0-7s-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QE-g7Vl7YDE5_Teg0-7s-12" target="QE-g7Vl7YDE5_Teg0-7s-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QE-g7Vl7YDE5_Teg0-7s-12" value="软件版本号下发" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="QE-g7Vl7YDE5_Teg0-7s-12" value="软件版本号下发" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="160" y="307" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QE-g7Vl7YDE5_Teg0-7s-14" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="QE-g7Vl7YDE5_Teg0-7s-14" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="220" y="260" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QE-g7Vl7YDE5_Teg0-7s-15" value="知会考勤&lt;div&gt;知会中心负责人&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="QE-g7Vl7YDE5_Teg0-7s-15" value="知会考勤&lt;div&gt;知会中心负责人&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="360" y="307" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QE-g7Vl7YDE5_Teg0-7s-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QE-g7Vl7YDE5_Teg0-7s-17" target="QE-g7Vl7YDE5_Teg0-7s-22">
+        <mxCell id="QE-g7Vl7YDE5_Teg0-7s-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QE-g7Vl7YDE5_Teg0-7s-17" target="QE-g7Vl7YDE5_Teg0-7s-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QE-g7Vl7YDE5_Teg0-7s-17" value="实际出差信息填写" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="QE-g7Vl7YDE5_Teg0-7s-17" value="实际出差信息填写" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="160" y="447" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QE-g7Vl7YDE5_Teg0-7s-19" value="填写内容：&lt;div&gt;1.实际出差日期、实际天数、实际总金额&lt;/div&gt;&lt;div&gt;2.TCU软件、VCU软件（&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;根据流程发起时选择的软件类型动态显示）&lt;/span&gt;&lt;/div&gt;&lt;div&gt;3.出差日志附件（Excel）&lt;/div&gt;&lt;div&gt;4.出差报告附件（Word）&lt;/div&gt;&lt;div&gt;5.SVN归档截图&lt;/div&gt;&lt;div&gt;6.路谱信息（根据流程发起时选择的能否采集路谱动态显示）&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="QE-g7Vl7YDE5_Teg0-7s-19" value="填写内容：&lt;div&gt;1.实际出差日期、实际天数、实际总金额&lt;/div&gt;&lt;div&gt;2.TCU软件、VCU软件（&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;根据流程发起时选择的软件类型动态显示）&lt;/span&gt;&lt;/div&gt;&lt;div&gt;3.出差日志附件（Excel）&lt;/div&gt;&lt;div&gt;4.出差报告附件（Word）&lt;/div&gt;&lt;div&gt;5.SVN归档截图&lt;/div&gt;&lt;div&gt;6.路谱信息（根据流程发起时选择的能否采集路谱动态显示）&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-210" y="412" width="380" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="QE-g7Vl7YDE5_Teg0-7s-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QE-g7Vl7YDE5_Teg0-7s-22">
+        <mxCell id="QE-g7Vl7YDE5_Teg0-7s-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QE-g7Vl7YDE5_Teg0-7s-22" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="280" y="477" as="targetPoint" />
             <Array as="points">
@@ -63,23 +63,29 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="QE-g7Vl7YDE5_Teg0-7s-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QE-g7Vl7YDE5_Teg0-7s-22" target="QE-g7Vl7YDE5_Teg0-7s-26">
+        <mxCell id="QE-g7Vl7YDE5_Teg0-7s-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QE-g7Vl7YDE5_Teg0-7s-22" target="QE-g7Vl7YDE5_Teg0-7s-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QE-g7Vl7YDE5_Teg0-7s-22" value="部门主管审批&lt;div&gt;（软件所/标定所）&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="QE-g7Vl7YDE5_Teg0-7s-22" value="部门主管审批&lt;div&gt;（软件所/标定所）&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="160" y="561" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="QE-g7Vl7YDE5_Teg0-7s-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QE-g7Vl7YDE5_Teg0-7s-26" target="QE-g7Vl7YDE5_Teg0-7s-29">
+        <mxCell id="QE-g7Vl7YDE5_Teg0-7s-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QE-g7Vl7YDE5_Teg0-7s-26" target="QE-g7Vl7YDE5_Teg0-7s-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QE-g7Vl7YDE5_Teg0-7s-26" value="知会考勤&lt;div&gt;知会中心负责人&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="QE-g7Vl7YDE5_Teg0-7s-26" value="知会考勤&lt;div&gt;知会中心负责人&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="160" y="695" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QE-g7Vl7YDE5_Teg0-7s-28" value="此步过后&lt;div&gt;可以在钉钉易快报流程中查询到此流程，可以发起报销&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="QE-g7Vl7YDE5_Teg0-7s-28" value="此步过后&lt;div&gt;可以在钉钉易快报流程中查询到此流程，可以发起报销&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-150" y="710" width="300" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QE-g7Vl7YDE5_Teg0-7s-29" value="软件所所长判断是否发起ECR" style="rhombus;whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="180" y="825" width="80" height="80" as="geometry" />
+        <mxCell id="QE-g7Vl7YDE5_Teg0-7s-29" value="软件所所长判断是否发起ECR" style="rhombus;whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="160" y="811" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rjVf3NDC-vGSOX9cz1ob-0" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="220" y="514" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rjVf3NDC-vGSOX9cz1ob-2" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="320" y="518" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
